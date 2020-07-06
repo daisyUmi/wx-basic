@@ -1,4 +1,0 @@
-<!--pages/demo1/demo1.wxml-->
-<text>pages/demo1/demo1.wxml</text>
-<van-button type="primary" size="small" bind:click='handleClick'>按钮</van-button>
-<van-button type="primary" size="small" bindtap="handleItemTap"  bind:click='handleItemTap'>按钮</van-button>
